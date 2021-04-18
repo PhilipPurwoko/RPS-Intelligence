@@ -1,4 +1,9 @@
 ## ⛰️ 📄 ✂️ RPS-Intelligence
+![GitHub top language](https://img.shields.io/github/languages/top/PhilipPurwoko/RPS-Intelligence)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/PhilipPurwoko/RPS-Intelligence)
+![GitHub repo size](https://img.shields.io/github/repo-size/PhilipPurwoko/RPS-Intelligence)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/PhilipPurwoko/RPS-Intelligence)
+![GitHub](https://img.shields.io/github/license/PhilipPurwoko/RPS-Intelligence)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PhilipPurwoko/RPS-Intelligence/blob/main/RPS-Classification.ipynb)
 
 Recognize Rock-Paper-Scissor hand photo using Artificial Intelligence. Multi-class classification using Tensorflow Neural Network :brain:
